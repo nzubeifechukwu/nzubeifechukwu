@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Nzube](https://nzubeifechukwu.github.io/portfolio/)
+- 👋 Hi, I’m Nzube
 - 👀 I’m interested in CSS, JavaScript and React
 - 🌱 I’m currently improving my React and CSS skills by working on projects
 - 💞️ I’m looking to collaborate on projects that will help me perfect my CSS and React skills
